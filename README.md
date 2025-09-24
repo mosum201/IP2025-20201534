@@ -6,5 +6,5 @@
 Homework 1
 https://youtu.be/aryQ7bCqjxA
 
-[![Video](http://img.youtube.com/vi/aryQ7bCqjxA/0.jpg)](https://youtu.be/aryQ7bCqjxA)
+<img src="./hw1.gif" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
